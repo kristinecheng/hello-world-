@@ -10,7 +10,7 @@ int main()
 	string name1 = "Kristine Cheng";
 	hello1Function(name1);
 
-	string name2 = "Nicholas Hu";
+	string name2 = "Lawrence Caballes";
 	hello2Function(name2);
 
 	return 0;
